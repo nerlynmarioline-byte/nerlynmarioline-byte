@@ -4,10 +4,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%"/>
 
-## Hai, aku Nadia 🌸
-
-Mahasiswa Teknik Informatika yang lagi belajar bikin sesuatu dari nol — pelan-pelan, tapi konsisten.
-Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi satu repo.
+## Hai, aku Nadia Refnita
 
 > *diam bukan berarti lemah, tapi LAPAR* 🍙
 
