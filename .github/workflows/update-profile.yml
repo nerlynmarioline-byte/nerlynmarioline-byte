@@ -1,0 +1,57 @@
+name: Update profile assets
+
+# Generate ulang assets/stats.svg dan assets/sakura-graph.svg dari data GitHub,
+# lalu commit otomatis kalau ada perubahan.
+on:
+  schedule:
+    - cron: "0 18 * * *"   # tiap hari 18:00 UTC = 02:00 WITA
+  workflow_dispatch:        # bisa dijalankan manual dari tab Actions
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-profile.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-profile
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate Sakura Bloom graph
+        env:
+          # Opsional: buat secret PROFILE_TOKEN (PAT) kalau mau kontribusi privat ikut terhitung.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/generate_sakura_graph.py
+
+      - name: Generate stats card
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: python scripts/generate_stats.py
+
+      - name: Commit perubahan
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats.svg assets/sakura-graph.svg
+          if git diff --cached --quiet; then
+            echo "Tidak ada perubahan."
+          else
+            git commit -m "chore: update stats & sakura bloom graph"
+            git push
+          fi
