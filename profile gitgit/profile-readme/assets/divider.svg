@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 56" width="1000" height="56" role="img" aria-label="pemisah bunga sakura">
+<defs><linearGradient id="ln" x1="0" y1="0" x2="1" y2="0">
+<<<<<<< HEAD
+<stop offset="0" stop-color="#800020" stop-opacity="0"/><stop offset="0.3" stop-color="#a3243b"/><stop offset="0.5" stop-color="#e07a90"/><stop offset="0.7" stop-color="#a3243b"/><stop offset="1" stop-color="#800020" stop-opacity="0"/>
+</linearGradient></defs>
+<rect x="40" y="27" width="920" height="2" rx="1" fill="url(#ln)"/>
+<g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="741,-6;701,56" dur="6.0s" begin="-3.6s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.80)" fill="#f6d3d9"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="632,-6;592,56" dur="6.5s" begin="-3.0s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.61)" fill="#f3c4cd"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="325,-6;285,56" dur="7.2s" begin="-6.6s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.76)" fill="#e9a0ae"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="933,-6;893,56" dur="8.3s" begin="-8.1s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.74)" fill="#d9677f"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="471,-6;431,56" dur="6.8s" begin="-2.0s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.78)" fill="#f6d3d9"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="716,-6;676,56" dur="6.9s" begin="-1.1s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.61)" fill="#d9677f"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="265,-6;225,56" dur="8.0s" begin="-5.3s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.58)" fill="#f3c4cd"/></g>
+<circle cx="500" cy="28" r="19" fill="#5c0a1e" stroke="#a3243b" stroke-width="2"/>
+<g transform="translate(500 28)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(0)" fill="#e58a9d"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(72)" fill="#e58a9d"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(144)" fill="#e58a9d"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(216)" fill="#e58a9d"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(288)" fill="#e58a9d"/><circle r="2.5" fill="#86102a"/></g></g>
+=======
+<stop offset="0" stop-color="#800020" stop-opacity="0"/><stop offset="0.3" stop-color="#a3243b"/><stop offset="0.5" stop-color="#ff8fa6"/><stop offset="0.7" stop-color="#a3243b"/><stop offset="1" stop-color="#800020" stop-opacity="0"/>
+</linearGradient></defs>
+<rect x="40" y="27" width="920" height="2" rx="1" fill="url(#ln)"/>
+<g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="741,-6;701,56" dur="6.0s" begin="-3.6s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.80)" fill="#ffd6de"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="632,-6;592,56" dur="6.5s" begin="-3.0s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.61)" fill="#ffc2cf"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="325,-6;285,56" dur="7.2s" begin="-6.6s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.76)" fill="#f7a8b8"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="933,-6;893,56" dur="8.3s" begin="-8.1s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.74)" fill="#ff7f9c"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="471,-6;431,56" dur="6.8s" begin="-2.0s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.78)" fill="#ffd6de"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="716,-6;676,56" dur="6.9s" begin="-1.1s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.61)" fill="#ff7f9c"/></g><g opacity="0.85"><animateTransform attributeName="transform" type="translate" values="265,-6;225,56" dur="8.0s" begin="-5.3s" repeatCount="indefinite"/>
+<path d="M0 0 C-5 -7 -12 -3 -9 4 C-7 8 -2 9 0 6 C2 9 7 8 9 4 C12 -3 5 -7 0 0Z" transform="scale(0.58)" fill="#ffc2cf"/></g>
+<circle cx="500" cy="28" r="19" fill="#4f0c1d" stroke="#a3243b" stroke-width="2"/>
+<g transform="translate(500 28)"><g><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="24s" repeatCount="indefinite"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(0)" fill="#ff9db3"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(72)" fill="#ff9db3"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(144)" fill="#ff9db3"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(216)" fill="#ff9db3"/><path d="M0 0 C-7.7 -7.0 -6.3 -14.7 0 -14.0 C6.3 -14.7 7.7 -7.0 0 0Z" transform="rotate(288)" fill="#ff9db3"/><circle r="2.5" fill="#7a1128"/></g></g>
+>>>>>>> 96e26ce614bfb2b1eabc03574d4f62bf15ec754e
+</svg>
