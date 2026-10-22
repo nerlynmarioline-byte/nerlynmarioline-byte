@@ -6,9 +6,6 @@
 
 ## Hai, aku Nadia 🌸
 
-Mahasiswa Teknik Informatika yang lagi belajar bikin sesuatu dari nol — pelan-pelan, tapi konsisten.
-Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi satu repo.
-
 > *diam bukan berarti lemah, tapi LAPAR* 🍙
 
 <br/>
