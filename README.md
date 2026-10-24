@@ -46,11 +46,6 @@ Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi s
 
 <img src="assets/achievements.svg" alt="Juara 1 Video Instagram tingkat sekolah tentang lingkungan oleh Fakultas Kesehatan Masyarakat Universitas Mulawarman, 28 September 2023; dan Sertifikat Partisipasi Nasional Aksi Milenial untuk Inklusivitas dan Pelestarian Lingkungan dari Departemen Pembangunan Sosial dan Kesejahteraan FISIP Universitas Gadjah Mada, 6 November 2023." width="100%"/>
 
-| Penghargaan | Penyelenggara | Tanggal |
-|---|---|---|
-| **Juara 1 Video Instagram** — “Save the environment for a healthy and pollution free earth” | Fakultas Kesehatan Masyarakat, Universitas Mulawarman (Unmul) | 28 September 2023 |
-| **Sertifikat Partisipasi Nasional** — “Aksi Milenial untuk Inklusivitas dan Pelestarian Lingkungan” | Departemen Pembangunan Sosial dan Kesejahteraan, Fakultas Ilmu Sosial dan Ilmu Politik, Universitas Gadjah Mada (UGM), Yogyakarta | 6 November 2023 |
-
 <br/>
 
 ### 作品 · Proyek
