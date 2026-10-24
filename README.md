@@ -17,7 +17,7 @@ Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi s
 
 | | |
 |---|---|
-| 🌸 **Nama** | Nadia Refnita Putri Batuallo |
+
 | 🎓 **Pendidikan** | Alumni SMK, jurusan Desain Komunikasi Visual (DKV) |
 | 🔭 **Lagi dipelajari** | Web dasar (HTML, CSS, JavaScript) & C++ |
 | 🌱 **Tujuan** | Jadi Frontend Developer & Website Development|
@@ -36,9 +36,6 @@ Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi s
   <img src="https://img.shields.io/badge/VS_Code-800020?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
 
-| Bahasa | Pemahaman saat ini |
-|---|---:|
-| JavaScript | **25%** |
 
 <br/>
 
