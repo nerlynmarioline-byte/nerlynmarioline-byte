@@ -6,6 +6,9 @@
 
 ## Hai, aku Nadia 🌸
 
+Alumni SMK jurusan Desain Komunikasi Visual (DKV) yang sedang belajar membuat sesuatu dari nol — pelan-pelan, tapi konsisten.
+Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi satu repo.
+
 > *diam bukan berarti lemah, tapi LAPAR* 🍙
 
 <br/>
@@ -15,7 +18,7 @@
 | | |
 |---|---|
 | 🌸 **Nama** | Nadia Refnita Putri Batuallo |
-| 🎓 **Status** | Mahasiswa Teknik Informatika |
+| 🎓 **Pendidikan** | Alumni SMK, jurusan Desain Komunikasi Visual (DKV) |
 | 🔭 **Lagi dipelajari** | Web dasar (HTML, CSS, JavaScript) & C++ |
 | 🌱 **Tujuan** | Jadi Frontend Developer & Website Development|
 
@@ -32,6 +35,21 @@
   <img src="https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-800020?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
+
+| Bahasa | Pemahaman saat ini |
+|---|---:|
+| JavaScript | **25%** |
+
+<br/>
+
+### 🏅 Sertifikat & Prestasi
+
+<img src="assets/achievements.svg" alt="Juara 1 Video Instagram tingkat sekolah tentang lingkungan oleh Fakultas Kesehatan Masyarakat Universitas Mulawarman, 28 September 2023; dan Sertifikat Partisipasi Nasional Aksi Milenial untuk Inklusivitas dan Pelestarian Lingkungan dari Departemen Pembangunan Sosial dan Kesejahteraan FISIP Universitas Gadjah Mada, 6 November 2023." width="100%"/>
+
+| Penghargaan | Penyelenggara | Tanggal |
+|---|---|---|
+| **Juara 1 Video Instagram** — “Save the environment for a healthy and pollution free earth” | Fakultas Kesehatan Masyarakat, Universitas Mulawarman (Unmul) | 28 September 2023 |
+| **Sertifikat Partisipasi Nasional** — “Aksi Milenial untuk Inklusivitas dan Pelestarian Lingkungan” | Departemen Pembangunan Sosial dan Kesejahteraan, Fakultas Ilmu Sosial dan Ilmu Politik, Universitas Gadjah Mada (UGM), Yogyakarta | 6 November 2023 |
 
 <br/>
 

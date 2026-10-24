@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="title description">
+  <title id="title">Sertifikat dan prestasi Nadia</title>
+  <desc id="description">Juara 1 Video Instagram bertema lingkungan dari Fakultas Kesehatan Masyarakat Universitas Mulawarman pada 28 September 2023, serta partisipasi nasional Aksi Milenial untuk Inklusivitas dan Pelestarian Lingkungan dari Universitas Gadjah Mada pada 6 November 2023.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3b101f"/>
+      <stop offset="1" stop-color="#160d17"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff8fa6"/>
+      <stop offset="1" stop-color="#ffd0d9"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="996" height="296" rx="22" fill="url(#bg)" stroke="#ff8fa6" stroke-opacity=".38" stroke-width="3"/>
+  <text x="42" y="48" fill="#ffd0d9" font-family="'Segoe UI',sans-serif" font-size="16" letter-spacing="3">PENGHARGAAN · 2023</text>
+  <path d="M42 65H958" stroke="#ff8fa6" stroke-opacity=".35"/>
+  <g transform="translate(42 88)">
+    <rect width="442" height="174" rx="16" fill="#fff" fill-opacity=".055" stroke="#fff" stroke-opacity=".18"/>
+    <circle cx="34" cy="34" r="18" fill="#ff8fa6" fill-opacity=".18" stroke="#ff8fa6"/>
+    <path d="M34 22l4 8 9 1-7 6 2 9-8-5-8 5 2-9-7-6 9-1z" fill="url(#accent)"/>
+    <text x="66" y="40" fill="#ffd0d9" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing="1">JUARA 1 · VIDEO INSTAGRAM</text>
+    <text x="22" y="78" fill="#fff" font-family="'Segoe UI',sans-serif" font-size="17" font-weight="700">Save the environment for a healthy</text>
+    <text x="22" y="101" fill="#fff" font-family="'Segoe UI',sans-serif" font-size="17" font-weight="700">and pollution free earth</text>
+    <text x="22" y="132" fill="#f2cdd4" font-family="'Segoe UI',sans-serif" font-size="13">Fakultas Kesehatan Masyarakat · Unmul</text>
+    <text x="22" y="155" fill="#ffb4c3" font-family="'Segoe UI',sans-serif" font-size="12">28 September 2023</text>
+  </g>
+  <g transform="translate(516 88)">
+    <rect width="442" height="174" rx="16" fill="#fff" fill-opacity=".055" stroke="#fff" stroke-opacity=".18"/>
+    <circle cx="34" cy="34" r="18" fill="#ff8fa6" fill-opacity=".18" stroke="#ff8fa6"/>
+    <path d="M34 22l4 8 9 1-7 6 2 9-8-5-8 5 2-9-7-6 9-1z" fill="url(#accent)"/>
+    <text x="66" y="40" fill="#ffd0d9" font-family="'Segoe UI',sans-serif" font-size="13" font-weight="700" letter-spacing=".6">PARTISIPASI NASIONAL</text>
+    <text x="22" y="78" fill="#fff" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700">Aksi Milenial untuk Inklusivitas</text>
+    <text x="22" y="101" fill="#fff" font-family="'Segoe UI',sans-serif" font-size="16" font-weight="700">dan Pelestarian Lingkungan</text>
+    <text x="22" y="132" fill="#f2cdd4" font-family="'Segoe UI',sans-serif" font-size="13">Departemen PSdK · FISIP UGM, Yogyakarta</text>
+    <text x="22" y="155" fill="#ffb4c3" font-family="'Segoe UI',sans-serif" font-size="12">6 November 2023</text>
+  </g>
+</svg>
