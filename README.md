@@ -6,19 +6,18 @@
 
 ## Hai, aku Nadia 🌸
 
-Alumni SMK jurusan Desain Komunikasi Visual (DKV) yang sedang belajar membuat sesuatu dari nol — pelan-pelan, tapi konsisten.
+Mahasiswa Informatika yang sedang belajar membuat sesuatu dari nol — pelan-pelan, tapi konsisten.
 Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi satu repo.
 
 > *diam bukan berarti lemah, tapi LAPAR* 🍙
 
 <br/>
 
-### プロフィール · Tentang Saya
+### プロフィール · Profil
 
 | | |
 |---|---|
-
-| 🎓 **Pendidikan** | Alumni SMK, jurusan Desain Komunikasi Visual (DKV) |
+| 🎓 **Status** | Mahasiswa Informatika |
 | 🔭 **Lagi dipelajari** | Web dasar (HTML, CSS, JavaScript) & C++ |
 | 🌱 **Tujuan** | Jadi Frontend Developer & Website Development|
 
