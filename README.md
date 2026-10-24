@@ -15,9 +15,6 @@ Dari HTML & CSS dasar, JavaScript, sampai C++, semuanya dicicil satu repo demi s
 
 ### プロフィール · Tentang Saya
 
-| | |
-|---|---|
-| 🌸 **Nama** | Nadia Refnita Putri Batuallo |
 | 🎓 **Pendidikan** | Alumni SMK, jurusan Desain Komunikasi Visual (DKV) |
 | 🔭 **Lagi dipelajari** | Web dasar (HTML, CSS, JavaScript) & C++ |
 | 🌱 **Tujuan** | Jadi Frontend Developer & Website Development|
