@@ -17,7 +17,7 @@
 | 🌸 **Nama** | Nadia Refnita Putri Batuallo |
 | 🎓 **Status** | Mahasiswa Teknik Informatika |
 | 🔭 **Lagi dipelajari** | Web dasar (HTML, CSS, JavaScript) & C++ |
-| 🌱 **Tujuan** | Jadi software engineer yang kodenya rapi dan bisa dipakai orang |
+| 🌱 **Tujuan** | Jadi Frontend Developer & Website Development|
 
 <br/>
 
