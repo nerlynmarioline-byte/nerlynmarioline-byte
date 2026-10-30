@@ -188,7 +188,7 @@
 
 <!-- vertical kanji -->
 <text x="962" y="70" font-family="'Yu Mincho','Hiragino Mincho ProN','Noto Serif JP','Noto Serif CJK JP',Georgia,serif" font-size="26" fill="#ffffff" fill-opacity="0.85" letter-spacing="8" style="writing-mode:vertical-rl">静かな炎</text>
-<rect x="946" y="60" width="2" height="360" fill="#ffffff" fill-opacity="0.25"/>
+<rect x="934" y="60" width="2" height="360" fill="#ffffff" fill-opacity="0.25"/>
 
 <!-- falling petals (front layer) -->
 <g opacity="0.8">
