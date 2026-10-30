@@ -17,9 +17,9 @@ W, H = 1000, 250
 BAR_X, BAR_W = 610, 280
 LANG_COLORS = ["#f6d3d9", "#f0b9c3", "#e07a90", "#d9677f", "#c9455f"]
 
-# Atur persentase bahasa secara manual: [("Nama", persen), ...]
+# Persentase yang ditampilkan pada kartu stats dapat diatur manual di sini.
 # Isi None kalau mau memakai data asli dari GitHub. Tiap bar punya skala sendiri (0-100%).
-LANGUAGES_OVERRIDE = [("HTML", 70), ("CSS", 75)]
+LANGUAGES_OVERRIDE = [("HTML", 70), ("CSS", 75), ("JavaScript", 25)]
 
 
 def collect(user):
